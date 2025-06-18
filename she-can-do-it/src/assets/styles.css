@@ -1,0 +1,11 @@
+:root {
+    --black: #000000;
+    --hot-pink: #ff038e;
+    --white: #ffffff;
+  }
+  
+  body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--white);
+    color: var(--black);
+  }
